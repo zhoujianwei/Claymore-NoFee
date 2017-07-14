@@ -6,7 +6,7 @@
 ## 环境配置方法
 在 Windows
 
-安装Python 2.7
+安装Python 2.7 Windows10安装Python2.7 http://blog.csdn.net/u011781521/article/details/53909151
 
 在每台挖矿终端上修改host 文件. C:/Windows/System32/drivers/etc/hosts
 
