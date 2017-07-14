@@ -3,7 +3,7 @@
 ##工作机制
 此协议用于 Claymore 和公网连接之间抓取mining fee数据包替换devfee地址为自己钱包地址. 重定向速度很快不需要重启挖矿终端 。
 
-##环境配置方法
+## 环境配置方法
 在 Windows
 
 安装Python 2.7
@@ -15,7 +15,7 @@
 ```
 127.0.0.1   eth-eu.dwarfpool.com
 ```
-##运行
+## 运行
 第一次运行代理要注意把矿池地址改成自己实际使用的地址
 ```
 ./stratum_proxy.py 127.0.0.1 8008 eth-eu2.nanopool.org 9999 0xB7716d5A768Bc0d5bc5c216cF2d85023a697D04D
