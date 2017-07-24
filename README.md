@@ -66,13 +66,6 @@ Zcash version in the futur?
 ### Claymore 客户端对于本地代理的警告...
 Claymore 通过检查狂吃 IP 来避免本地代理,如果你收到警告可以参考: [Fake WAN For Windows](http://www.qukuai.top/d/53-wan-win)
 
-### I detect a strange behaviour or reduced hashrate with untested claymore version
-If you see something wrong with a new Claymore version, maybe the cheat has been detected and Claymore tries to punish us.
-If it's the case, tell us in the issue section with clues.
-
-## Contact & Issues
-You can chat us on [Gitter](https://gitter.im/claymore-no-fee-proxy/Lobby)
-If you met an issue you can also post in the issue section.
 
 ## 感谢原作者 thk original author
 如果觉得有用请支持原作者
