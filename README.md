@@ -10,6 +10,9 @@
 
 安装Python 2.7 Windows10安装Python2.7 http://blog.csdn.net/u011781521/article/details/53909151
 
+### 虚拟一个Wan口
+可以参考教程[Windows](http://www.qukuai.top/d/53-wan-win)
+
 在每台挖矿终端上修改host 文件. C:/Windows/System32/drivers/etc/hosts
 
 替换手续费矿池名称，添加记录:
